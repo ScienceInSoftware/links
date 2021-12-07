@@ -32,3 +32,5 @@ TDD
 
 Other links
 https://aitortxu.dropmark.com/477268?page=1
+
+* Are we really engineers? https://www.hillelwayne.com/post/are-we-really-engineers/
